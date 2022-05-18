@@ -18,8 +18,13 @@ the branch that contains this  is under
 
 ### **module 1.2**
 Topics: Asynchronous JavaScript Patterns; In-depth training on Callbacks, Promises, Async Await, Generators, Event loop.
-Content **Todo**
+# Content module 1.2
 
+
+for this content you can refer to the file with the following extension
+
+#### **CoEJavascript/emmanuel-rodriguez/AsyncJavascriptDeepDive/Chapter3.md**
+this topics are great when trying to understand how to use the callbacks,promises and generators.
 ### **module 1.3**
 Topics: pure functions, currying, composition, functors, and monads
 

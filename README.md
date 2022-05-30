@@ -39,7 +39,8 @@ Topics: Custom Hooks, Compound Components, Reusable Styles, Control Props, Props
 
 Course: Course: The Complete Guide to Advanced React Component Patterns Link: https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/ Hours: 6
 
-Content **Todo**
+Content:
+> for this course a lot of patterns were introduced , so every pattern contains their proper introducction and also a little example of how we can use them in order to set up a better a base of code
 
 
 ### **module 1.5**

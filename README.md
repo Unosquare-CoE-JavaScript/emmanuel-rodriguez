@@ -30,21 +30,18 @@ Topics: pure functions, currying, composition, functors, and monads
 
 Course: Course: Hardcore Functional Programming in JavaScript, v2
 
-Content **Todo**
+Content:
+I Created a markdown file that contains most of the important points in the course and that were
+relevant for me , a functional criteria and definition is given, followed by an example to this.
 
 ### **module 1.4**
 Topics: Custom Hooks, Compound Components, Reusable Styles, Control Props, Props Collections, Props Getters, State Initializer, State Reducer Pattern.
 
 Course: Course: The Complete Guide to Advanced React Component Patterns Link: https://www.udemy.com/course/the-complete-guide-to-advanced-react-patterns/ Hours: 6
 
-Content **Todo**
+Content:
+> for this course a lot of patterns were introduced , so every pattern contains their proper introducction and also a little example of how we can use them in order to set up a better a base of code
 
-### **module 1.3**
-Topics: pure functions, currying, composition, functors, and monads
-
-Course: Course: Hardcore Functional Programming in JavaScript, v2
-
-Content **Todo**
 
 ### **module 1.5**
 Topics: Unit Testing, Jest, Testing Library.
